@@ -1,0 +1,7 @@
+cn\icanci\tourism\domain\UserInfo.class
+cn\icanci\tourism\domain\Product.class
+cn\icanci\tourism\domain\Member.class
+cn\icanci\tourism\domain\Permission.class
+cn\icanci\tourism\domain\Orders.class
+cn\icanci\tourism\domain\Role.class
+cn\icanci\tourism\domain\Traveller.class

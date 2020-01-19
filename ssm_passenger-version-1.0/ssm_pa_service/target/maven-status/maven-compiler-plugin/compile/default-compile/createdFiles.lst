@@ -1,0 +1,6 @@
+cn\icanci\tourism\service\impl\UserServiceImpl.class
+cn\icanci\tourism\service\IProductService.class
+cn\icanci\tourism\service\impl\ProductServiceImpl.class
+cn\icanci\tourism\service\IUserService.class
+cn\icanci\tourism\service\impl\OrdersServiceImpl.class
+cn\icanci\tourism\service\IOrdersService.class
